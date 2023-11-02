@@ -10,6 +10,7 @@ Step 2. Run the `.exe` file.<br>
 Step 3. Enjoy!<br>
 
 ### Linux
+// Make sure you have `libsfml` downloaded.
 Step 1. Download `logograb-linux-x64` from Releases tab.<br>
 Step 2. Run the binary.<br>
 Step 3. Enjoy!<br>
